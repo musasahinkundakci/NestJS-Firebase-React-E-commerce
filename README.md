@@ -17,7 +17,7 @@ $ npm i
 $ npm start
 ```
 
-#Changing Firebase Client Sdk;
+# Changing Firebase Client Sdk;
 ```
 $ cd PersonalWeb/src/redux/config/firebase-config.js
 ```
